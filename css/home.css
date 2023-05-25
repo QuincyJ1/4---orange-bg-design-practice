@@ -46,11 +46,8 @@ body * {
 .bottom-header > .home-page {
   display: flex;
   align-items: center;
-
-  /* margin-left: 2em; */
 }
 .bottom-header .main-pic {
-  margin-bottom: 9px;
   margin-right: 10px;
 }
 .bottom-header .home-page-title {
@@ -70,4 +67,38 @@ body * {
 .bottom-header a:hover {
   color: #91a7c9;
   transition: all 0.4s;
+}
+
+.main-section {
+  height: 620px;
+  background-image: url(../img/main-background-pic.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+}
+
+.main-section > .main-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 150px;
+  /* margin-left: calc(50% - 310px); */
+  color: white;
+  background-color: rgba(42, 50, 17, 0.8);
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  line-height: 3em;
+}
+
+.main-description .main-title {
+  font-size: 36px;
+  font-weight: 100;
+  letter-spacing: 0.15em;
+}
+.main-description .main-text {
+  font-size: 20px;
 }
