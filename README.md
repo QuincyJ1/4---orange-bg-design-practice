@@ -21,11 +21,6 @@ Design: (https://www.milessebesta.com/web-design/html-practice-projects-for-begi
 
 - Github pages
 - README / [markdown](https://www.milessebesta.com/wp-content/uploads/2019/08/html-practice-projects-begginers.png)
-- favicon
-- fixed-width content
-- `<header>`, `<footer>`
-- FontAwesome font/icons
-- HTML entities
 
 ## 🧰 Getting Started
 
