@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://quincyj1.github.io/4---orange-bg-design-practice/
 
-Design: (https://www.milessebesta.com/web-design/html-practice-projects-for-beginners/?cn-reloaded=1), [Astronautas (footer only)](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
+Design: (https://www.milessebesta.com/wp-content/uploads/2019/08/html-practice-projects-begginers-1024x494.png), [Astronautas (footer only)](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
 ## 🎯 Project features/goals
 
