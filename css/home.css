@@ -1,0 +1,73 @@
+body,
+body * {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+:root {
+  --main-color: ;
+}
+.top-header {
+  width: 100%;
+  height: 100px;
+}
+
+.top-header > .main-header {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  font-size: 18px;
+}
+.top-header .btn {
+  padding: 0.8em 1.3em;
+  border: 1px solid #1f6a88;
+  color: #1f6a88;
+}
+.top-header .btn:hover {
+  background-color: #1f6a88;
+  color: white;
+  border-radius: 0.3em;
+  transition: all 0.3s;
+}
+.bottom-header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 500px;
+  width: 100%;
+  height: 120px;
+  background-color: black;
+  color: white;
+}
+.bottom-header > .home-page {
+  display: flex;
+  align-items: center;
+
+  /* margin-left: 2em; */
+}
+.bottom-header .main-pic {
+  margin-bottom: 9px;
+  margin-right: 10px;
+}
+.bottom-header .home-page-title {
+  font-size: 24px;
+}
+
+.bottom-header .main-menu {
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+  gap: 2.2em;
+}
+.bottom-header a {
+  color: white;
+  text-decoration: none;
+}
+.bottom-header a:hover {
+  color: #91a7c9;
+  transition: all 0.4s;
+}
